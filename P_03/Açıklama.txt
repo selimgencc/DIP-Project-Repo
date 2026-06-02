@@ -1,0 +1,3 @@
+I1 ve I2 görselleri üzerinden, gnd içinde yer alan yerleri çıkartacak kodu yazınız. 
+hastanın adını tepit edip onun adına bir klasör açıp kırpılmış görseli oraya kaydediniz. 
+ 
