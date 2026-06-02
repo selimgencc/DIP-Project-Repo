@@ -1,2 +1,0 @@
-Görsellerde yer alan öğrencilerin numaralarını kırpan ve OCR ile tanıyan bir program yazınız. 
-Kırpma sürecini görüntü işleme teknikleri ile yapmanız gerekmektedir !

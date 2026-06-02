@@ -1,8 +1,0 @@
-yüzleri tespit eden bir AI modeli bulunuz. 
-AI'nın sağladığı koordinatlar üzerinden yüzleri flu hale getiren
-veya göz bölgesine siyah bir şerit koyan bir kod yazınız. 
-Göz tespit etmenize gerek yoktur. Yüz oranında göz bölgesini hesaplayabilirsiniz. 
-
-Her iki görevin de yapılması gerekmektedir. 
-
-2. görsel kaynağı: https://www.pexels.com/photo/people-walking-on-pedestrian-lane-during-daytime-109919/
